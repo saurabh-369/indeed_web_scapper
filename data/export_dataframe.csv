@@ -1,0 +1,966 @@
+0,1,2
+Principal Engineer Software - Software Integration & Test Automation,Northrop Grumman,"<div>
+ <h3 class=""jobSectionHeader""><b>Requisition ID: </b><b>R10133202</b></h3>
+ <ul>
+  <li><b> Category</b><b>:</b> Engineering</li>
+  <li><b> Location</b><b>:</b> San Diego, California, United States of America | Palmdale, California, United States of America+ 1 more</li>
+  <li><b> Citizenship required</b><b>:</b> United States Citizenship</li>
+  <li><b> Clearance Type</b><b>:</b> Secret</li>
+  <li><b> Telecommute</b><b>:</b> No- Teleworking not available for this position</li>
+  <li><b> Shift</b><b>:</b> 1st Shift (United States of America)</li>
+  <li><b> Travel Required</b><b>:</b> Yes, 10% of the Time</li>
+ </ul>
+ <div>
+   At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.
+ </div>
+ <div>
+  <p> At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems in air and space that impact people’s lives around the world today, and for generations to come. Our work preserves freedom and democracy and advances human discovery and our understanding of the universe. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future and have a lot of fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work – and we have an insatiable drive to do what others think is impossible. Our Employees Are Not Part Of History, They Are Making History.</p>
+  <p></p>
+  <p> Northrop Grumman Aeronautics Systems has an opening for a Principal Software Integration &amp; Test Automation (SI&amp;TA) Software Engineer to join our team of qualified, diverse individuals within our Software organization. This role can be located in San Diego or Palmdale, California.</p>
+  <p></p>
+  <p> In this role you will support all aspects of the of the software engineering lifecycle, with particular focus on automated software testing, hardware/software integration, systems administration and lab management, and modeling and simulation software development. You will work with multi-disciplinary teams, such as with Systems Engineering, Real-time &amp; Embedded Software, Test Automation, DevSecOps and Systems Test<b>,</b> in an Agile software development environment.</p>
+  <p></p>
+  <p> Key Responsibilities include:</p>
+  <ul>
+   <li> Support program statement of work by applying fundamentals of software engineering to all phases of the Software Development Lifecycle</li>
+   <li> Collaborate directly with software development and other engineering discipline teams to develop, write, document, and execute software requirement verification and integration, tests, including identifying and tracking issues through resolution</li>
+   <li> Support software integration with hardware components in systems integration labs and other integrated test environments</li>
+   <li> Participate in all aspects of the software development lifecycle activities and the Agile process for critical mission system software products</li>
+   <li> Work on an Agile scrum team to execute and automate infrastructure maintenance and user services</li>
+   <li> Utilize software development skills to design, code, and implement tests: unit, integration, regression</li>
+   <li> Perform detailed design, code, and testing of those requirements at the domain level as well as support of system and operational testing</li>
+   <li> Analyze software and system requirements allocated to computer software configuration items (CSCI)</li>
+   <li> Support tool development to support streamlining of current processes and development of continuous test integration environment</li>
+   <li> Ensure that thorough, clear, and complete documentation is created and maintained to support current and future integration activities</li>
+   <li> Submit detailed problem reports for any anomalies identified during testing</li>
+  </ul>
+  <p></p>
+  <p> Basic Qualifications:</p>
+  <ul>
+   <li> Bachelor's degree in a STEM discipline (Science, Technology, Engineering or Math) with 5 years of related engineering experience or a Master’s degree in STEM with 3 years of related engineering experience, or a PhD in STEM with 0 years of related engineering experience</li>
+   <li> Demonstrated experience with at least one of the following automated test frameworks: Cucumber, Google Test, TestComplete, AQT, Atlas, EggPlant, Unit Test Factory, RTC, ATF, Python</li>
+   <li> Experience with at least one of the following programming languages: Python, C/C++, or C#</li>
+   <li> Experience with Object-Oriented Analysis and Design (OOAD) and Object-oriented Programming (OOP)</li>
+   <li> Experience in Agile Software methodologies – Scrum or Kanban</li>
+   <li> Experience with Atlassian tools such as Jira, Git, Subversion, Confluence, etc.</li>
+   <li> Experience with Microsoft Windows and Unix/Linux operating systems</li>
+   <li> Must have an active DoD Secret (or higher) clearance</li>
+  </ul>
+  <p></p>
+  <p> Preferred Qualifications:</p>
+  <ul>
+   <li> Excellent communication, interpersonal skills, and the ability to interface with all levels of employees and management</li>
+   <li> Proficient with at least one of the following languages C, C++, Python</li>
+   <li> Familiarity with communication protocols (MIL-STD-1553)</li>
+   <li> Experience in complete software development lifecycle</li>
+   <li> Experience with software development in real-time embedded systems for military applications</li>
+   <li> Experience in using integrated development environment tools (e.g., Rhapsody) and real-time operating systems (e.g., Integrity)</li>
+   <li> Demonstrated understanding of application and embedded software integration procedures</li>
+   <li> Demonstrated experience with software test automation at multiple requirement levels</li>
+   <li> Cloud and container experience (e.g., installing and troubleshooting Docker or Kubernetes deployed software)</li>
+   <li> Demonstrated advanced level understanding of application and embedded software integration procedures</li>
+   <li> Experience with VMWare infrastructure</li>
+   <li> Certification from VMWare, Windows (MCSE), and/or RedHat with Satellite Administration</li>
+   <li> Administration and troubleshooting of Linux (RHEL / CENTOS) 6/7/8 servers and workstations</li>
+   <li> Administration and troubleshooting of Windows Server 2008 / 2016, and Windows 7 / 10 systems</li>
+   <li> Administration and troubleshooting of VMWare vSphere systems (VCSA and ESXi) systems</li>
+   <li> Automate system maintenance tasks with scripting tools (PowerShell, Python, Ansible, etc.)</li>
+   <li> Experience with cybersecurity compliance through the use of security frameworks and remediation tools (SCC SCAP scanner, STIG Viewer, and Nessus)</li>
+   <li> Familiarity with software network interfaces</li>
+   <li> Experience in automation of installation, configuration, and test scripts</li>
+   <li> Active, current Security+ certification</li>
+   <li> Experience with writing and using scripting languages to support hardware/software integration, debugging, and maintenance</li>
+   <li> Active in scope DoD Top Secret/SCI clearance</li>
+   <li> Special Access Program (SAP) clearance</li>
+   <li> United States Passport, and ability and willingness to frequently travel overseas</li>
+  </ul>
+ </div>
+ <div>
+  <div>
+   <b> Salary Range: </b>$104,600 - $157,000
+  </div>
+ </div>
+ <div>
+   Employees may be eligible for a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.
+ </div>
+ <div>
+  <p> Northrop Grumman is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO/AA and Pay Transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for most positions.</p>
+ </div>
+</div>
+<p></p>"
+Senior Software Engineer,ASML,"<div>
+ <div>
+  <p>Location </p>
+  <p>San Jose, US </p>
+ </div>
+ <div>
+  <p>Team </p>
+  <p>Design Engineering and Architecture </p>
+ </div>
+ <div>
+  <p>Work experience </p>
+  <p>0-1 year, 2-3 years, 4-9 years, 10-15 years </p>
+ </div>
+ <div>
+  <p>Educational background </p>
+  <p>Physics, Materials Science, Electrical Engineering </p>
+ </div>
+ <div>
+  <p>Technical field </p>
+  <p>Software </p>
+ </div>
+ <div>
+  <p>Travel </p>
+  <p>10% </p>
+ </div>
+ <div>
+  <p>Programming languages </p>
+  <p>C++, C, Python </p>
+ </div>
+ <div>
+  <p>Remote work </p>
+  <p>Hybrid </p>
+ </div>
+ <div>
+  <p>Fulltime/parttime </p>
+  <p>Full time</p>
+ </div>
+</div> 
+<br>
+<div>
+ <div>
+  <div>
+   <b>Job ID: </b>J-00283263 
+  </div>
+  <div>
+   <p><b>Introduction: </b></p>
+   <p></p>
+   <p>We are looking for a highly talented individual to join our software development team. In this position, you will be responsible for designing, creating, and developing software for ASML world-class products.You will have the opportunity to work with software developers, hardware engineers and the application engineering organization on a regular basis. </p>
+   <p></p>
+   <p><b>Qualifications: </b></p>
+   <ul>
+    <li>Master's Degree with 3+ years of work experience or PhD in Physics, Computer Science or other applicable engineering degree required. </li>
+    <li>Clear understanding of imaging theories (Abbe, Hopkins) </li>
+    <li><b>Competency in programming with Matlab, Python required. </b>Additional Competency in C++, C, for imaging product development preferred. </li>
+    <li>Experience in RET/OPC and rigorous simulation (RCWA, FDTD) </li>
+    <li>Knowledge in EUV lithography preferred </li>
+    <li>Knowledge in optimization methods </li>
+    <li>Presentation and customer support skills </li>
+    <li>Ability to explore new applications of our existing product line </li>
+   </ul>
+   <p></p>
+   <p><b>Responsibilities: </b></p>
+   <ul>
+    <li>Create product specification based on Marketing/customer inputs </li>
+    <li>Conduct feasibility studies, prototype testing and generate feature proof data </li>
+    <li>Documentation including the user’s manual and other technical documents </li>
+    <li>knowledge of data analytics and machine learning </li>
+    <li>Research, evaluate, and present statistical or Machine Learning methods to provide actionable insights </li>
+    <li>Provide training to field engineers and key customers </li>
+    <li>Knowledge on chemical amplified resist, Negative tone development and resist processing is a plus </li>
+    <li>Familiar with ASML scanner system and the key imaging modules is a plus. </li>
+    <li>Some domestic and international travel required. </li>
+   </ul>
+   <h2 class=""jobSectionHeader""><b>Diversity and inclusion </b></h2>
+   <p>ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that diversity and inclusion is a driving force in the success of our company. </p>
+   <p></p>
+   <h2 class=""jobSectionHeader""><b>EOE AA M/F/Veteran/Disability </b></h2>
+   <p></p>
+   <p>Need to know more about applying for a job at ASML? Read our frequently asked questions . </p>
+   <p></p>
+   <p>#BG-LI </p>
+   <p>#BG-Hybrid<br> </p>
+  </div>
+  <p></p>
+  <div>
+   The current base annual salary range for this role is currently $141,750-$236,250. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.
+  </div>
+ </div>
+</div>"
+Principal / Sr. Principal Software Engineer - Top Secret Clearance Required,Northrop Grumman,"<div>
+ <h3 class=""jobSectionHeader""><b>Requisition ID: </b><b>R10132761</b></h3>
+ <ul>
+  <li><b> Category</b><b>:</b> Engineering</li>
+  <li><b> Location</b><b>:</b> Woodland Hills, California, United States of America</li>
+  <li><b> Citizenship required</b><b>:</b> United States Citizenship</li>
+  <li><b> Clearance Type</b><b>:</b> Top Secret</li>
+  <li><b> Telecommute</b><b>:</b> No- Teleworking not available for this position</li>
+  <li><b> Shift</b><b>:</b> 1st Shift (United States of America)</li>
+  <li><b> Travel Required</b><b>:</b> No</li>
+  <li><b> Relocation Assistance</b><b>:</b> Relocation assistance may be available</li>
+ </ul>
+ <div>
+   At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.
+ </div>
+ <div>
+  <p> Northrop Grumman Mission Systems is a trusted provider of mission-enabling solutions for global security. Our Engineering and Sciences (E&amp;S) organization pushes the boundaries of innovation, redefines engineering capabilities, and drives advances in various sciences. Our team is chartered with providing the skills, innovative technologies to develop, design, produce and sustain optimized product lines across the sector while providing a decisive advantage to the warfighter. Come be a part of our mission!</p>
+  <p></p>
+  <p> We are looking for you to join our team as a Software Engineer based out of Woodland Hills, CA. As a Software Engineer at Northrop Grumman, you will have a challenging and rewarding opportunity to be a part of our Enterprise-wide digital transformation. Through the use of Agile and DevSecOps practices we continue to evolve how we deliver critical national defense products and capabilities for the warfighter. Our success is grounded in our ability to embrace change, move quickly and continuously drive innovation. The successful candidate will be collaborative, open, transparent, and team-oriented with a focus on team empowerment &amp; shared responsibility, flexibility, continuous learning, and a culture of automation.</p>
+  <p></p>
+  <p><b> What You’ll get to Do:</b></p>
+  <p> Candidates will work on software systems for mission systems in all phases of the software development lifecycle, primarily in C/C++ or Python. The selected individual will interface with systems engineering to develop flow down software requirements and technical specifications. Responsibilities include identifying risks, suggesting mitigation, tracking defects, developing resolutions, and reporting status. The individual will also be expected to develop and execute unit tests and build verification test plans, and track and report test status. Additionally, the selected individual will conduct reviews of software related products, software designs, and additional technical documents. The responsibilities include active participation in Integrated Product Teams (IPT), design reviews, and other reviews, as required. The selected individual will actively participate in the technical peer reviews to ensure system/software requirements are being met from an end-to-end system point of view. Individuals must be self-starters and able to efficiently operate in a team environment. Existing engineering and system specialists will be made available to assist with any activities associated with executing primary tasking. However, the selected individuals will be expected to prioritize and make recommendations to Technical Leads, as required, to implement tasking assigned. This position is contingent upon clearance and special program access.</p>
+  <p></p>
+  <p> NGFeaturedJobs</p>
+  <p></p>
+  <p> This requisition may be filled at a higher grade based on qualifications listed below</p>
+  <p></p>
+  <p> This requisition may be filled at either a Principal Level or a Sr. Principal Level.</p>
+  <p></p>
+  <p><b> Basic Qualifications a Principal Software Engineer are:</b></p>
+  <ul>
+   <li> Bachelor’s degree 5 years of software engineering experience, or 3 years of experience with a Masters degree. An additional 4 years of experience can be considered in lieu of a degree.</li>
+   <li> Experience working in C/C++ and/or Python</li>
+   <li> Proficiency in working with real time embedded software</li>
+   <li> Experience with full software lifecycle: specification, design, implementation, integration, debug and maintenance are required</li>
+   <li> Ability to be cleared to special access programs</li>
+   <li> Active DoD Top Secret Clearance</li>
+  </ul>
+  <p></p>
+  <p><b> Basic Qualifications a Sr. Principal Software Engineer are:</b></p>
+  <ul>
+   <li> Bachelor’s degree 9 years of software engineering experience, or 7 years of experience with a Masters degree, or 4 years of experience with a PhD. An additional 4 years of experience can be considered in lieu of a degree.</li>
+   <li> Experience working in C/C++ and/or Python</li>
+   <li> Proficiency in working with real time embedded software</li>
+   <li> Experience with full software lifecycle: specification, design, implementation, integration, debug and maintenance are required</li>
+   <li> Ability to be cleared to special access programs</li>
+   <li> Active DoD Top Secret Clearance</li>
+  </ul>
+  <p></p>
+  <p><b> Preferred Qualifications: </b></p>
+  <ul>
+   <li>Experience in algorithmic application development and optimization</li>
+   <li> Software Development and/or Software Engineering background with an Agile/DevSecOps mindset</li>
+   <li> Experience in real-time embedded software development knowledge of Radar, Electronic Warfare, or Space technologies</li>
+   <li> Experience with GitLab</li>
+   <li> Experience with automated pipeline testing</li>
+   <li> Experience with the CUDA and GPUs</li>
+   <li> Experience with database back-ends SQLite, PostgreSQL, and/or Oracle</li>
+   <li> Experience in Open Architecture Solutions</li>
+   <li> Experience with Scripting languages (e.g., Python, Ruby, JavaScript, Bash) and Test Driven Development (TDD)</li>
+   <li> Experience with Docker containerization</li>
+   <li> Experience with GreenHills, VxWorks and/or Linux Operating Systems</li>
+   <li> Experience with Visual Studio</li>
+   <li> Experience with Matlab</li>
+   <li> Experience with High Performance Computing</li>
+  </ul>
+ </div>
+ <p></p>
+ <div>
+  <div>
+   <b> Salary Range: </b>$104,600 - $157,000
+  </div>
+  <div>
+   <b> Salary Range 2: </b>$129,700 - $194,500
+  </div>
+ </div>
+ <div>
+   Employees may be eligible for a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.
+ </div>
+ <div>
+  <p> Northrop Grumman is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO/AA and Pay Transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for most positions.</p>
+ </div>
+</div>
+<p></p>"
+"Lead, Software Engineering",L3Harris Technologies,"<div>
+ Description: 
+ <p><b>Job Title: Lead, Embedded Software Engineer</b></p> 
+ <p><b> Job Code: IMS20230811-107955</b></p> 
+ <p><b> Job Location:</b><b> Anaheim, CA</b></p> 
+ <p><b> Schedule: 9/80</b></p> 
+ <p><b> Relocation: Available for qualified candidates</b><i> </i></p>
+ <p><i>L3Harris is dedicated to recruiting and developing diverse, high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do.</i><b><i> </i></b></p>
+ <p><b><i>About L3Harris Technologies: </i></b></p>
+ <p><i>L3Harris Technologies is an agile global aerospace and defense technology innovator, delivering end-to-end solutions that meet customers’ mission-critical needs. The company provides advanced defense and commercial technologies across space, air, land, sea and cyber domains. L3Harris has approximately $18 billion in annual revenue and 47,000 employees, with customers in more than 100 countries.</i><b> </b></p>
+ <p><b>Job Description: </b></p>
+ <p><i>Under general direction of Software Engineering Management, this position develops and applies advanced software engineering methods in the investigation and solution of complex and advanced technical problems for embedded application specialized in power system architectures, power conversion equipment and advanced integration modeling/simulation. The Lead Software Engineer shall lead software engineer team to support for all stages of product development from design through implementation and system integration under minimal supervision. Must be hands-on software engineer that functions as an engineering role model for those whom are more junior as well as internal partners and external customers. </i></p>
+ <p><b>Essential Functions:</b></p> 
+ <ul> 
+  <li>Lead development of software design and architectures for new and legacy embedded products.</li> 
+  <li>Interpret customer specification to define traceable &amp; testable requirements for software design.</li> 
+  <li>Provide software technical leadership for the software team. Justify engineering practice to internal and external customers.</li> 
+  <li>Perform &amp; automate requirement analysis and software coverage analysis for software code base.</li> 
+  <li>Compose software use case and review test procedures for validation and verification of software development.</li> 
+  <li>Ability to work simultaneously on a variety of projects.</li> 
+  <li>Reviews project progress and helps in earned value reporting. Recommends corrections in technical approach to maximize efficiency of engineering resources. </li>
+  <li>Support new programs from conceptual design, through detail design to completion.</li> 
+  <li>Provides expert guidance with a variety of software engineering concepts, practices, and procedures.</li> 
+  <li>Maintain engineering discipline excellence through DevSecOps automation and predicable performance.</li> 
+  <li>Coordinate directions from Project and/or System Engineering Department Manager.</li> 
+ </ul> 
+ <p><b>Qualifications: </b></p>
+ <p>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p> 
+ <div> 
+  <ul>
+   <li><b>Experience </b>leading the development through the release of safety-critical (military grade) software embedded product. Ability to work within contract scope with CAM and PMO with technical accountability. </li>
+  </ul>
+  <ul>
+   <li>Position requires a bachelor’s degree in science, Technology, Engineering, or Mathematics (STEM) or related discipline with minimum 9 years or a graduate degree with a minimum of 7 years prior relevant experience (10+ years desired) of prior related experience. In lieu of a degree, minimum of 13 years of prior related experience.</li>
+  </ul> 
+  <ul>
+   <li><b>Familiarity </b>with software control systems, power conversion concepts, and embedded system software architecture to champion software engineering contribution as a key member of multi-disciplined engineering teams.</li>
+  </ul> 
+  <ul>
+   <li><b>Expertise </b>in board bring-up and integration on and off target hardware on embedded or “bare metal” platforms. Comfortable with cross-platform embedded software development within a dynamic collaborative team with ability to diagnose proprietary toolchain opportunities.</li>
+  </ul> 
+  <ul>
+   <li><b>Expertise </b>leading disciplined and data-drive real-time design, multiprocessor synchronization, data consistency and propagation with multiprocessor and multi-tried caching, and system performance and timing analysis.</li>
+  </ul> 
+  <ul>
+   <li><b>Experience </b>in digital signal processing, machine to machine communications, fiber optics-based communications subsystems, and communication protocols, such as RS-232, RS-485, and Ethernet.<b> </b></li>
+  </ul>
+  <ul>
+   <li><b>Leadership </b>in establishing, deploying and sustaining Unit Test and Test-Driven Development (TDD) pipeline (CI) for a multi-discipline and multi-supplier project.</li>
+  </ul> 
+  <ul>
+   <li><b>Expertise </b>in C and C++ programming language. Knowledge of Python is beneficial.</li>
+  </ul> 
+  <ul>
+   <li>US Citizenship with Ability to obtain Secret Clearance.</li>
+  </ul> 
+  <ul>
+   <li>Travel &lt;10% Annually with ability to support onsite, second shift &amp; weekend spike demand is needed.</li>
+  </ul> 
+ </div> 
+ <p><b>Preferred Additional Skills:</b></p> 
+ <ul> 
+  <li>Ability to mentor (lead by example) teams of software engineers.</li> 
+  <li>Ability to negotiate and build-bridges with other entrenched functional teams as well as customers.</li> 
+  <li>Work in a multi-disciplinary (beyond engineering) team and build consensus on forward looking contracts.</li> 
+  <li>Fluent with how to use Atlassian toolset and SAFe/SCRUM practices to improve the team’s productivity.</li> 
+  <li>Proficient with web-based collaboration tools (wiki) and Microsoft office suite.</li> 
+  <li>Proven effective communication with Senior Project Management and customer representatives is essential.<br> Knowledge in C++ compiling process, understand sufficiently in intermediary and linker output files. </li>
+  <li>Knowledge in ZYNQ UltraSCALE+ SoC based embedded target configuration/customization is a plus.</li> 
+  <li>Familiarity with MATLab/ SimuLink, Model Driven Design and Deterministic/ Stochastic Model software development.</li> 
+ </ul> 
+ <p></p>
+ <p>In compliance with California pay transparency requirements, the salary range for this role is $127,000 - $236,000. This is not a guarantee of compensation or salary, as final offer amount may vary based on factors including but not limited to experience and geographic location. L3Harris also offers a variety of benefits, including health and disability insurance, 401(k) match, flexible spending accounts, EAP, education assistance, parental leave, paid time off, and company-paid holidays. The specific programs and options available to an employee may vary depending on date of hire, schedule type, and the applicability of collective bargaining agreements.</p>
+</div>"
+Business Application Software Developer Manager,Summit Funding,"<div>
+ Company Description
+ <p><br> Summit Funding, Inc is one of the oldest still privately owned top 50 national mortgage lenders. When Todd Scrima, our owner and CEO founded our company in 1995 his dream was not to be the biggest, but to strive to be the best. In 2022 we were proud to play a part in making the dream of homeownership a reality for over 10,000 people. Our growth mindset, positive culture, and history of stability are just a few things that position our company as a leader in the mortgage industry.</p>
+ <p><b> Benefits and Perks:</b></p>
+ <ul>
+  <li> We offer a competitive compensation structure</li>
+  <li> Full benefits include 401K with match, medical, dental, vision, PTO, and more.</li>
+  <li> Flexible work schedule, remote and hybrid opportunities available.</li>
+ </ul>
+</div> 
+<br> 
+<div>
+ Job Description
+ <p><br> The Manager of Strategic Business Applications improves operational processes and supports critical business strategies by managing the development, implementation, and maintenance of strategic business applications. Leads multiple projects and oversees developers and analysts to ensure application systems specifications align with business needs and achieve desired results. This includes regular interactions with senior management and partnerships with key stakeholders to ensure the optimal operation of the entire Summit Funding mortgage technology stack.</p>
+ <p> The salary offered is dependent on location and experience but ranges between $127,000 and $166,000 annually.</p>
+ <p><b> Essential Duties of the Position:</b></p>
+ <ul>
+  <li> Develop, enhance, and maintain Summit’s Strategic Business Applications including, but not limited to, the Loan Origination, Point-of-Sale, Business Intelligence, and Customer Relationship Management systems.</li>
+  <li> Lead, mentor, &amp; inspire a distributed team of application developers and business analysts, fostering a collaborative, professional, and inclusive environment.</li>
+  <li> Ensure that applications, enhancements, and changes are implemented on time, within scope, and with an emphasis on improving workflows and automation.</li>
+  <li> Own and execute complex, cross departmental projects involving Strategic Business Applications, establishing achievable, realistic expectations, and taking accountability for milestones and committed timelines.</li>
+  <li> Establish and nurture stakeholder relationships with department heads and/or their delegates to regularly communicate project updates, clarify business needs, and set/reset expectations.</li>
+  <li> Define and maintain business specific metrics to measure systems performance, utilization, capacity, and value.</li>
+ </ul>
+ <p> IND1</p>
+</div> 
+<br> 
+<div>
+ Qualifications
+ <p><b><br> Job Requirements:</b></p>
+ <ul>
+  <li> 8+ years developing applications in an enterprise environment using VB.net, Java, SQL and/or other development platforms.</li>
+  <li> 3+ years managing an application development team in an enterprise environment.</li>
+  <li> Bachelor’s degree in Computer Science or related field of study; Master’s degree preferred.</li>
+  <li> Direct experience developing applications in the Mortgage industry OR similarly regulated industries such as Banking, Finance, Insurance, or Health Care.</li>
+  <li> Experience utilizing SDLC, Agile, Scrum, and/or other development methodologies.</li>
+  <li> Proficient in managing complex, cross functional technology projects.</li>
+  <li> Excellent written and verbal communication skills; able to bidirectional translate complex development requirements to/from high level business workflow needs.</li>
+  <li> Demonstrated ability to manage a geographically dispersed development team.</li>
+ </ul>
+ <br> Additional Information
+ <p><br> All your information will be kept confidential according to EEO guidelines.</p>
+</div>"
+Lead Software Engineer,Disney Entertainment & ESPN Technology,"<div>
+ <p>Ever wonder how the innovative storytelling from the world’s most beloved brands – Star Wars, Marvel, Pixar, ESPN, 20th Century, National Geographics, FX, Freeform, Disney Channels, ABC, and more - makes it to viewers around the globe and beyond (yes, we also deliver content to the International Space Station)? Come join our growing team that builds global products, platforms and tools that deliver and monetize our company's unmatched collection of content, power our businesses and reflect the company's innovative spirit.</p>
+ <p></p>
+ <p> We are the <b>Content Platforms</b> team with a mission to “<b>reimagine the technical ecosystem that empowers The Walt Disney Company to harness its unparalleled storytelling and distribute it around the world.</b>” Content Platforms is part of the Disney Media and Entertainment Distribution (DMED) segment which is responsible for The Walt Disney Company’s direct-to-consumer businesses globally, including the ESPN+ sports streaming service, programmed in conjunction with ESPN; Disney+, the Disney-branded direct-to-consumer streaming service; global advertising sales and ad technology for all of Disney’s media properties, including ABC, ESPN, Freeform, FX Networks, National Geographic and the Disney Channels; Hotstar, the leading over-the-top streaming service in India; and the Company’s majority ownership stake in Hulu.</p>
+ <p></p>
+ <p> If you:</p>
+ <ul>
+  <li> Enjoy working with teams of talented and passionate people</li>
+  <li> Have excellent communication skills</li>
+  <li> Demonstrate determination in finding solutions to complex puzzles</li>
+  <li> Have the curiosity and interests in how content goes from inception to consumers</li>
+  <li> Employ positive thinking and are able to work constructively in a diverse team setting</li>
+ </ul>
+ <ul>
+  <li> Enjoy transforming business strategy into innovative products &amp; platforms</li>
+  <li> Value learning and being exposed to new experiences</li>
+  <li> Love working in a startup culture</li>
+  <li> Find Media &amp; Entertainment industry fascinating</li>
+ </ul>
+ <p></p>
+ <p> then Content Platforms team is the place for you. <b>We are growing and investing in innovative technology to deliver a state-of-the-art content pipeline.</b> Come be a part of the magic that makes The Walt Disney Company one of the <b>“World’s Most Admired Companies”</b>.</p>
+ <p></p>
+ <p> As a Lead Software Engineer, you will be part of a team that builds and maintain complex systems that track and deliver financial information and insights across The Walt Disney Company.</p>
+ <p> You will assist in the design, development, testing and deployment of high-quality software solutions.</p>
+ <p> You will apply excellent communication skills while interfacing with both technical and product teams to capture new system requirements and then apply your expertise in software development in the delivery of innovative solutions for those requirements.</p>
+ <p></p>
+ <ul>
+  <li> Provide technical guidance and evangelize best practices</li>
+  <li> Maintain a deep understanding of our core systems and how they interact with upstream and downstream dependencies</li>
+  <li> Contribute and review code, set standards, and work with engineers to ensure product and design specifications are met</li>
+  <li> Responsible for fundamental platform performance, scalability, and resiliency</li>
+  <li> Partner with stakeholders to refine requirements, and propose solutions to problems that span multiple teams</li>
+  <li> Influence and contribute to department technical strategy and planning</li>
+  <li> Provide mentoring to engineers on advanced technical issues</li>
+  <li> Research, learn, and evangelize widespread adoption of new technologies and architecture patterns</li>
+  <li> Lead cross-functional troubleshooting of complex issues as needed</li>
+  <li> Strategic planning and vision focused on experimenting with and deploying new technologies</li>
+ </ul>
+ <p></p>
+ <p><b> Basic Qualifications</b></p>
+ <ul>
+  <li> Proven expertise with architecture and delivery of high volume, cached, fault tolerant, multi-threaded scalable systems</li>
+  <li> Deep understanding of async programming models (events, callbacks, etc)</li>
+  <li> Expertise designing APIs and building RESTful services</li>
+  <li> Mastery in Java and experience with multiple opensource technologies like; Spring, Tomcat, Nginx, Elastic Search, etc</li>
+  <li> Highly knowledgeable in cloud-based technologies such as AWS EC2, SQS, S3, Lambdas, DynamoDB, RDS, Elasticsearch, Cloudformation/Terraform, etc.</li>
+  <li> Expertise with full lifecycle of application development, including best practices of unit testing, code reviews, documentation, etc.</li>
+  <li> Experience with build and deployment technologies such as Jenkins/Gitlab CICD and Docker</li>
+  <li> Motivated self-starter with the ability to learn and adapt to new technologies. Can effectively articulate complex ideas and influence others through well-reasoned explanations</li>
+  <li> Enjoy working on a team setting with engineers of varying experience</li>
+  <li> Be able to work well with external partners and contractors</li>
+  <li> Strong communication skills and attention to detail</li>
+  <li> 7+ years relevant industry experience</li>
+ </ul>
+ <p></p>
+ <p><b> Education</b></p>
+ <ul>
+  <li> BS Computer Science or related technical discipline or its equivalent</li>
+ </ul>
+ <p></p>
+ <p> #DISNEYTECH</p>
+ <p></p>
+ <p> The hiring range for this position in Santa Monica/Burbank/Glendale/L.A., California and in Bristol, Connecticut is $149,300 - $200,200 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.</p>
+ <br> 
+ <p></p> The hiring range for this position in Santa Monica/Burbank/Glendale/L.A., California and in Bristol, Connecticut is $149,300 - $200,200 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.
+</div>"
+Software Engineer II,Microsoft,"<div>
+ <div>
+  The Identity and Network Access engineering team in Mountain View, CA is hiring Software Engineer II(s) to build and manage the new Microsoft Entra Security Service Edge (SSE) offerings. We boldly pursue big ideas that power transformational advances in online security and user management.
+ </div>
+ <div></div>
+ <div>
+  <br> Employees in our division have deep technical knowledge, customer insights, and a clear point of view that comes from first-hand, very large-scale experience. We are engineers, technology leaders and adepts, digital transformation change agents, and customer advocates. Our teams are seeking knowledgeable and passionate software engineers to join us as we create and deliver mission critical services and processes to enable Microsoft’s online presence. You will have the opportunity to design and develop creative, compelling, and cutting-edge systems that support our world-wide operations. You will develop software and services at scale, innovating on the latest technologies as the earliest adopters while mentoring other team members. Also, our culture promotes diversity, multiculturalism, and inclusion and is clearly reflected in all of the things we do. Diversity is more than a commitment for us - it is the foundation of what we do.
+ </div>
+ <div></div>
+ <div>
+  <br> Our team has a committed sense of accountability and provides its members with many opportunities for learning and career growth. We have exciting opportunities for you to innovate, influence, transform, inspire, and grow within our organization and we encourage you to apply to learn more!
+ </div>
+ <h2 class=""jobSectionHeader""><b> Responsibilities</b></h2>
+ <br> 
+ <div></div>
+ <ul>
+  <li> Work with the Product and Engineering team members to design and develop large scale distributed software services and solutions.</li>
+  <li> Adhere to and drive modern software engineering practices through design reviews.</li>
+  <li> System design through well-defined interfaces across multiple components, code reviews, leveraging data/telemetry to make decisions.</li>
+  <li> Develop “best-in-class” engineering for our services by ensuring that the services and the components are well-defined and modularized, secure, reliable, diagnosable, actively monitored and reusable.</li>
+  <li> Improve test coverage for services, organize and implement integration tests, and resolve problem areas.</li>
+  <li> Consider testability, portability/monitoring, reliability, and maintainability, and understand when code is ready to be shared and delivered.</li>
+  <li> Gain a working understanding of Microsoft businesses and collaborate with mentors and leaders to contribute to cohesive, end-to-end experiences for our users.</li>
+  <li> Focus on customer/partner needs through a data driven approach.</li>
+  <li> Troubleshoot and optimize automation, reliability, and monitoring for Live Site.</li>
+ </ul>
+ <h2 class=""jobSectionHeader""><b> Qualifications</b></h2>
+ <div>
+  <b> Required/Minimum Qualifications</b>
+ </div>
+ <ul>
+  <li>
+   <div>
+     Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+   </div>
+   <ul>
+    <li>
+     <div>
+       OR equivalent experience.
+     </div></li>
+   </ul></li>
+  <li> 2+ years of familiarity with core networking protocols and technologies.</li>
+  <li> 2+ years of experience with Unix/Linux based operating systems and open source contributions.</li>
+ </ul>
+ <div>
+  <b> Other Requirements:</b>
+ </div>
+ <div></div>
+ <div>
+  <br> Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings:
+ </div>
+ <ul>
+  <li> Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.</li>
+ </ul>
+ <div>
+  <b> Additional or Preferred Qualifications</b>
+ </div>
+ <div></div>
+ <ul>
+  <li>
+   <div>
+    <br> Bachelor's Degree in Computer Science or related technical field AND 4+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+   </div>
+   <ul>
+    <li>
+     <div>
+       OR Master's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+     </div></li>
+    <li>
+     <div>
+       OR equivalent experience.
+     </div></li>
+   </ul></li>
+ </ul>
+ <div>
+   Software Engineering IC3 - The typical base pay range for this role across the U.S. is USD $94,300 - $182,600 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $120,900 - $198,600 per year.
+ </div>
+ <div></div>
+ <div>
+  <br> Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay
+ </div>
+ <div></div>
+ <div>
+  <br> #MSFTSecurity #IdentityJobs
+ </div> Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+</div>"
+Sr. Software Engineer,Tang and Company,"<div>
+ <p>Under the direction of the Software Engineering Manager, the Senior Software Engineer develops information systems by studying operations and designs, develops and installs software solutions in addition to supporting the development team.</p> 
+ <p><b>Pay Range: $130,000 - $200,000</b></p> 
+ <p>Essential Duties and Responsibilities:</p> 
+ <ul>
+  <li>Develop software solutions by studying information needs; conferring with users; studying systems flow, data usage and work processes; investigating problem areas; following the software development lifecycle</li> 
+  <li>Determine operational feasibility by evaluating analysis, problem definition, requirements, solution development and proposed solutions</li> 
+  <li>Document and demonstrate solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code</li> 
+  <li>Prepare and install solutions by determining and designing system specifications, standards and programming</li> 
+  <li>Improve operations by conducting systems analysis; recommending changes in policies and procedures</li> 
+  <li>Provide information by collecting, analyzing and summarizing development and service issues</li> 
+  <li>Support and develop software engineers by providing advice, coaching and educational opportunities</li> 
+  <li>Collaborate with team to brainstorm and create new products</li> 
+  <li>Updates job knowledge by studying state-of-the-art development tools, programming techniques, and computing equipment; participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations</li> 
+ </ul> 
+ <p>Required Qualifications:</p> 
+ <ul>
+  <li>5+ years of experience as a software engineer</li> 
+  <li>Experience building complex web systems that have been successfully delivered to customers</li> 
+  <li>Ability to take project from scoping requirements through actual launch of project</li> 
+  <li>Experience using system monitoring tolls and automated testing frameworks</li> 
+  <li>Excellent organizational, leadership, and project management skills</li> 
+  <li>Experience with professional software engineering best practice for the full software development lifecycle, including coding standards, code reviews, source control management, build processes, testing and operations</li> 
+ </ul> 
+ <p>Education:</p> 
+ <ul>
+  <li>Bachelor’s degree in Computer Science, Software Engineering or related field</li>
+ </ul>
+</div>"
+Software engineer,Ford Motor Company,"<div>
+ <div>
+  <p>Being on the Ford Model E team means building the future as Ford’s center of innovation and growth through electric and connected vehicles and services. </p>
+ </div>
+ <div>
+  <p>Ford Model E Platform Architecture Engineering is looking for a Software Engineer. In this role, you will be responsible for developing automotive software solutions and embedded software modules for electric vehicles developed by Ford.</p>
+ </div>
+</div> 
+<br>
+<div>
+ <p>Bachelor’s degree in software engineering, computer science or a related field or a combination of education and equivalent experience. </p>
+ <p>Programming experience in C or C++ </p>
+ <p>Experience in hands-on development and troubleshooting of embedded systems. </p>
+ <p>Familiarity with continuous development and software development processes </p>
+ <p>Strong documentation, writing, and communication skills</p>
+</div> 
+<br>
+<div>
+ <div>
+  <div>
+   <p>Contribute to defining objectives, scopes, timelines, milestones, deliverables, etc. </p>
+   <p>Coordinate with system owners on planning, implementation approaches, testing, documenting, and maintaining software solutions using defined processes and tools. </p>
+  </div>
+ </div>
+ <div>
+  <div>
+   <p>Analyze and enhance the efficiency, stability, and scalability of systems.</p>
+  </div>
+ </div>
+</div>"
+Senior Software Engineer,JPMorgan Chase & Co,"<div>
+ <b>JOB DESCRIPTION</b>
+ <p><br> DESCRIPTION:</p>
+ <p> Duties: Provide technical solutions and create engineering tasks, estimating time and effort needed to complete tasks. Design solutions to scale distributed systems, make architectural trade-offs applying synchronous and asynchronous design patterns, review code, and deliver with efficiency and quality. Advise, mentor and guide junior developers. Design, develop, and modify major components of custom application software to meet the functional requirements of the business for the new payment and data processing systems. Develop major components of software products. Drive conversations with engineering and product teams to gather business requirements. Clarify software and system requirements, and analyze requirements and their feasibility. Perform unit and integration testing on completed software. Write technical documentation for developed applications.</p>
+ <p><br> QUALIFICATIONS:</p>
+ <p> Minimum education and experience required: Master’s degree in Computer Science, Electrical Engineering, Electronic Engineering, Computer Engineering, Computer Information Systems, or related field of study plus 1 year of experience in the job offered, or Software Engineer, or a related occupation.</p>
+ <p> Skills Required: Requires experience in the following: Python; Linux; Unix; distributed systems; Java; PHP; and MySQL.</p>
+ <p> Job Location: 3223 Hanover St., Palo Alto, CA 94304. Telecommuting permitted up to 40% of the week.</p>
+ <p> Full-Time. Salary: $225,000 - $225,000 per year.</p> 
+ <b>ABOUT US</b>
+ <br> 
+ <div>
+   JPMorgan Chase &amp; Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management. 
+  <p></p>
+  <div>
+   <p>We recognize that our people are our strength and the diverse talents and perspectives that they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as any mental health or physical disability needs. (If you are a US or Canadian applicant with a disability and wish to request an accommodation to complete the application process, please contact us by calling the <b>Accessibility Line</b> (US and Canada Only) 1-866-777-4690 and indicate the specifics of the assistance needed.)</p> 
+   <p></p>
+   <div>
+    <p>We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, we offer discretionary incentive compensation which may be awarded in recognition of firm performance and individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.</p> 
+    <p></p>
+    <div>
+     <p>JPMorgan Chase is an Equal Opportunity Employer, including Disability/Veterans</p>
+     <br> 
+    </div>
+   </div>
+  </div>
+ </div>
+ <br> 
+ <br> 
+ <p></p>
+ <b>ABOUT THE TEAM</b>
+ <br> 
+ <br> The Corporate &amp; Investment Bank is a global leader across investment banking, wholesale payments, markets and securities services. The world’s most important corporations, governments and institutions entrust us with their business in more than 100 countries. We provide strategic advice, raise capital, manage risk and extend liquidity in markets around the world.
+</div>"
+"Software Test Engineer, New College Grad",Visa,"<div>
+ Company Description
+ <p><br> Visa is a world leader in digital payments, facilitating more than 215 billion payments transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable and secure payments network, enabling individuals, businesses and economies to thrive.</p>
+ <p> When you join Visa, you join a culture of purpose and belonging – where your growth is priority, your identity is embraced, and the work you do matters. We believe that economies that include everyone everywhere, uplift everyone everywhere. Your work will have a direct impact on billions of people around the world – helping unlock financial access to enable the future of money movement.</p>
+ <p><b> Join Visa: A Network Working for Everyone.</b></p>
+</div> 
+<br> 
+<div>
+ Job Description
+ <p><br> Open VisaNet: Open VisaNet (OVN) is responsible for building the long-term architecture for VisaNet and the future of our core payments processing capability. The team develops the next generation Authorization, Clearing and Settlement functionality that horizontally scales to support Global and domestic processing.</p>
+ <p> Visa is looking for a Software Test Engineer who will help build Open VisaNet, Visa's Next generation payment processing platform developed on Open Systems, that would fuel growth in electronic payments globally and drive financial inclusion in many parts of the world. Open VisaNet, is the Next Generation VisaNet, will push the envelope of building highly scalable, secure, cost effective and distributed application on commodity hardware using best-in-class technology components. Open VisaNet is one of Visa's Key initiative that will help Visa support in-country processing solutions and provide Visa an opportunity to move away from Proprietary Mainframe type systems. Building Open VisaNet will involve collaboration with exceptional group of software engineers, security specialists, DevOps engineers, payment experts and infrastructure architects.</p>
+ <p><b> Some job duties and projects could include:</b></p>
+ <ul>
+  <li> Develop test cases, test execution, and report defects throughout software development life cycle by analyzing functional and business requirements</li>
+  <li> Collaborate with DevOps teams for continuous testing and environment setup</li>
+  <li> Establish quality process in place to ensure the quality expectations are always met or exceeded</li>
+  <li> Maintain and/or develop test scripts to automate functional and regression test scenarios</li>
+  <li> Participate in design discussion to provide input on functional requirements, product design, and potential problems.</li>
+ </ul>
+</div>
+<p></p> 
+<br> 
+<div>
+ Qualifications
+ <div>
+  <b><br> Basic Qualifications:</b>
+  <br> 
+  <ul>
+   <li>Less than 2 years relevant work experience with either Bachelor's or Master's</li>
+  </ul> degree in Computer Science, Computer Engineering, CIS/MIS, Cybersecurity, Business or a related field, graduating January 2023 - August 2024
+  <br> 
+  <br> 
+  <b>Preferred Qualifications:</b>
+  <br> 
+  <br> 
+  <ul>
+   <li>Knowledge of at least one programming languages like Golang, Java, C++, or</li>
+  </ul> Python.
+  <br> 
+  <ul>
+   <li>Working familiarity with the entire software development lifecycle including</li>
+  </ul> version control, build process, testing, and code release.
+  <br> 
+  <ul>
+   <li>Experience with distributed database, distributed computing and high</li>
+  </ul> frequency transactions are a big plus.
+  <br> 
+  <ul>
+   <li>Strong communications skills, specifically, the absence of repeated</li>
+  </ul> grammatical or typographical errors, clear and concise written and spoken
+  <br> communications, and communications that demonstrate professional
+  <br> judgment.
+  <br> 
+  <ul>
+   <li>The ability to take on challenges and address problems head-on</li>
+   <li>Strong ability to collaborate</li>
+   <li>Highly driven, resourceful and results oriented</li>
+   <li>Good team player and excellent interpersonal skills</li>
+   <li>Good analytical and problem-solving skills</li>
+   <li>Demonstrated ability to lead and navigate through ambiguity</li>
+  </ul>
+ </div>
+ <br> Additional Information
+ <p><b><br> Work Authorization</b><b>: </b>Permanent Authorization to work in the U.S. is a precondition of employment for this position. Visa will not sponsor applicants for work visas in connection with this position. Future sponsorship will not be considered.</p>
+ <p><b> Work Hours:</b> Varies upon the needs of the department.</p>
+ <p><b> Travel Requirements:</b> This position requires travel 5-10% of the time.</p>
+ <p><b> Mental/Physical Requirements:</b> This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.</p>
+ <p> Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.</p>
+ <p> Visa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law, including the requirements of Article 49 of the San Francisco Police Code.</p>
+ <p><b> U.S. APPLICANTS ONLY: The estimated salary for a new hire into this position is $97,000, which may include potential sales incentive payments (if applicable). Salary may vary depending on job-related factors which may include knowledge, skills, experience, and location. In addition, this position may be eligible for bonus and equity. Visa has a comprehensive benefits package for which this position may be eligible that includes Medical, Dental, Vision, 401 (k), FSA/HSA, Life Insurance, Paid Time Off, and Wellness Program.</b></p>
+</div>"
+Software Engineer (New College Grad 2024),Cadence Design Systems,"<div>
+ <div>
+  At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.
+ </div>
+ <div>
+   Job Description
+ </div>
+ <div>
+   Works in R&amp;D group to develop leading edge software for physical verification products at advanced node. You will work on software development projects involving implementation, validation, maintenance and documentation. Works on complex problems where innovative and creative solutions are required. Problems are mathematical and geometric in nature requiring strong math and engineering background.
+  <br> 
+  <br> New College Grad (Class of 2024) with BS or MS in Computer Science, Computer Engineering, or equivalent.
+  <br> Programming skill in C/C++ is required with prior work experience in a software development role, including internships, a plus.
+ </div>
+ <div>
+   Demonstrate good problem solving ability, strong math background and reasonable knowledge of C++/python programming languages.
+  <br> Must have good communication skills to work with geographically distributed team.
+ </div>
+ <div></div>
+ <div>
+  <i> The annual salary range for California is $92,400 to $171,600. You may also be eligible to receive incentive compensation: bonus, equity, and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the salary range is a guideline and compensation may vary based on factors such as qualifications, skill level, competencies and work location. Our benefits programs include: paid vacation and paid holidays, 401(k) plan with employer match, employee stock purchase plan, a variety of medical, dental and vision plan options, and more.</i>
+ </div>
+ <div>
+   We’re doing work that matters. Help us solve what others can’t.
+ </div>
+</div>"
+Software Engineer,Ford Motor Company,"<div>
+ <p>We are the movers of the world and the makers of the future. We get up every day, roll up our sleeves and build a better world together. At Ford, we're all a part of something bigger than ourselves. Are you ready to change the way the world moves? </p>
+ <p>Product Development uses design thinking &amp; user experience methods to deliver breakthrough products and services that delight our customers. We bring innovative, exciting, and sustainable ideas to life. We have opportunities around the world for you to contribute to advancements in autonomy, electrification, smart mobility technologies, and more!</p>
+</div> 
+<br>
+<div>
+ <p><b>You'll have... </b></p>
+ <ul>
+  <li>Bachelor’s Degree in Computer Science or Electrical Engineering </li>
+  <li>2+ years of experience as a Software Developer </li>
+  <li>2+ years of experience with cloud-based software on GCP, AWS or Azure </li>
+ </ul>
+ <p><b>Even better, you may have... </b></p>
+ <ul>
+  <li>Strong communication skills with the ability to clearly understand and express complex ideas </li>
+  <li>Demonstrated experience in Java, Javascript, Kotlin, Typescript Experience with Spring Boot and Spring Data JPA </li>
+  <li>5+ years of experience as a Software Developer with a focus on building web applications </li>
+  <li>Experience with infrastructure as code, build pipelines and containerization. </li>
+  <li>Development of web applications on Google Cloud Platform (GCP) </li>
+ </ul>
+ <p>You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply! <br> <br> As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all the above? No matter what you choose, we offer a work life that works for you, including:<br> </p>
+ <p><br> • Immediate medical, dental, and prescription drug coverage <br> • Flexible family care, parental leave, new parent ramp-up programs, subsidized back-up child care and more <br> • Vehicle discount program for employees and family members, and management leases <br> • Tuition assistance <br> • Established and active employee resource groups <br> • Paid time off for individual and team community service <br> • A generous schedule of paid holidays, including the week between Christmas and New Year's Day <br> • Paid time off and the option to purchase additional vacation time. <br> <br> For a detailed look at our benefits, click here: <br> https://clicktime.symantec.com/15uBY4EYgUMYNmzry5FvV?h=a-6HF2Ri5H4QT88ImTMMDcAoKCfmIQ8ddPTNbS7bkmE=&amp;u=https://fordcareers.co/GSRHTHDPaloAlto </p>
+ <p>Visa sponsorship is not available for this position. </p>
+ <p>Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. <br> <br> We are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660. </p>
+ <p>#LI-Remote</p>
+</div> 
+<br>
+<div>
+ <p><b>What you’ll be able to do: </b></p>
+ <p>We are looking for an exceptional Software Developer to join our talented engineering team! Ford delivers automotive technology software to solve the hard problems that allows customers to efficiently safely to get their work done. As a top-notch full stack developer, you will play a vital role in designing, developing, and maintaining our proprietary software solution. </p>
+ <p>At Ford Pro Intelligence you will apply the current skills that you already have and will be constantly challenged to improve. We use a modern development toolchain Intellij, GitHub, Jenkins, Redis, Postman, Grafana, Confluence, and Jira. </p>
+ <ul>
+  <li>You will go deep on various areas of development and engineering, which can include Devops, Site Reliability Engineering, API services, data processors and frontend development. </li>
+  <li>Develop quality, maintainable, and efficient code while adhering to coding standards and best practices. </li>
+  <li>Be a reliable team member willing to take on tasks and solve problems both independently and in collaboration with team members. </li>
+  <li>Deliver code quality to the repository and test those changes in the environments on a continual basis using a lean flow process.</li>
+ </ul>
+</div>"
+Photos - Apps and User Experience Software Engineer,Apple,"<div>
+ <div>
+  <div>
+   <div>
+    <h2 class=""jobSectionHeader""><b>Summary</b></h2> 
+    <div>
+     <div>
+      Posted: Sep 20, 2023
+     </div> 
+     <div>
+      Weekly Hours: 
+      <b>40</b>
+     </div> 
+     <div>
+      Role Number:
+      <b>200503910</b>
+     </div> 
+    </div>
+    <div>
+     iPhone is the most popular camera in the world. The seamless integration of software and hardware has led to features like Memories and Portrait Mode which deliver magical experiences. Our team works hard on products that ship to millions of people, and we are looking for people who want to do the same. The Photos Infrastructure team is responsible for building innovative on-device and cloud services to improve the user’s photo and video experiences. We shape the next generation of media for Apple and contribute to a product that is redefining the Camera and Photos experience for the iPhone, iPad, Mac, Apple TV, and Apple Watch.
+    </div> 
+   </div>
+  </div>
+ </div>
+ <div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <h2 class=""jobSectionHeader""><b>Key Qualifications</b></h2> 
+     </div>
+     <div>
+      <div>
+       <ul>
+        <li>A strong interest in systems engineering (examples could include projects that involve any of c/c++/assembler/operating systems/compilers/IPC/media transformations etc.)</li> 
+        <li>Knowledge in any of the following would also be looked upon favorably:</li> 
+        <li>Developing and testing embedded software</li> 
+        <li>Experience building APIs or frameworks</li> 
+        <li>A background in relational databases (SQLite, PostgreSQL, SQL, Core Data, etc.)</li> 
+        <li>Performance tuning optimizing memory, scheduling, IO, networking protocols or databases</li> 
+        <li>Media database experience</li> 
+        <li>On-device software development experience</li> 
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <h2 class=""jobSectionHeader""><b>Description</b></h2> 
+     </div>
+     <div>
+      <div>
+       Do you want to shape the future of Photos? Are you looking to contribute to a product that is redefining digital photography? The Photos Infrastructure team is looking for an exceptional software engineer to develop innovative applications and infrastructure for Apple platforms. In this position you will be involved in features that encompass: video &amp; image processing, database programming, performance profiling, concurrent multi-process architectures, privacy &amp; security initiatives, and managing network based assets. You will be joining a highly cross functional team that partners closely with many teams across Apple. Within a release there's a close collaboration with teams ranging from: Photos UI, Camera Foundation, CoreOS, AVFoundation &amp; ImageIO, Privacy &amp; Security, Internet Technologies, System Intelligence &amp; Machine Learning, and iCloud. Amongst our most important partners are third party developers who provide great customer experiences by accessing our on-device services through the PhotoKit API. In recent releases the team has played key roles in delivering features such as: Deep Fusion with Camera Frameworks, Limited Library with Privacy &amp; Security, Curated Library with Photos UI, JPG to HEIF with the media format teams, Photos Memories in partnership with various intelligence teams, and extending the functionality of iCloud Photo Library. This is a very dynamic space which will provide great career opportunities for the right candidate.
+      </div> 
+     </div>
+    </div>
+   </div>
+  </div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <h2 class=""jobSectionHeader""><b>Education &amp; Experience</b></h2> 
+     </div>
+     <div>
+      <div>
+       Bachelor's Degree in Computer Science or equivalent.
+      </div> 
+     </div>
+    </div>
+   </div>
+  </div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <h2 class=""jobSectionHeader""><b>Additional Requirements</b></h2> 
+     </div>
+    </div>
+   </div>
+  </div>
+  <div></div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <h2 class=""jobSectionHeader""><b>Pay &amp; Benefits</b></h2> 
+     </div>
+     <div>
+      <div>
+       <ul>
+        <li>At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $116,100 and $208,300 annualized, and your base pay will depend on your skills, qualifications, experience, and location.<br> <br> Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.<br> <br> Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>"
+Claris - Backend Software Engineer,Apple,"<div>
+ <div>
+  <div>
+   <div>
+    <h2 class=""jobSectionHeader""><b>Summary</b></h2> 
+    <div>
+     <div>
+      Posted: Aug 21, 2023
+     </div> 
+     <div>
+      Weekly Hours: 
+      <b>40</b>
+     </div> 
+     <div>
+      Role Number:
+      <b>200407347</b>
+     </div> 
+    </div>
+    <div>
+     At Claris, an Apple company, we’re on a mission to empower developers to be their best – solving critical technology problems efficiently to innovate in their workplace. Bring passion and dedication to your job and make a difference to businesses and schools everywhere. Claris is the creator of the world’s leading professional low-code developer platform, offering a suite of tools that empower problem solvers to drive digital transformation in businesses large and small. The company has more than 1 million active users globally across SMBs, non-profits, and the Fortune 500.
+    </div> 
+   </div>
+  </div>
+ </div>
+ <div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <h2 class=""jobSectionHeader""><b>Key Qualifications</b></h2> 
+     </div>
+     <div>
+      <div>
+       <ul>
+        <li>Candidates should have good communication skills, a passion for software development and a working knowledge of:</li> 
+        <li>Go programming language (at least 4 years professional working experience)</li> 
+        <li>Strong analytical and problem solving skills</li> 
+        <li>Experiences with NoSQL Databases (MongoDB)</li> 
+        <li>Micro-service architectures</li> 
+        <li>RESTful APIs</li> 
+        <li>Containerized software development (Docker, Kubernetes)</li> 
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <h2 class=""jobSectionHeader""><b>Description</b></h2> 
+     </div>
+     <div>
+      <div>
+       We are looking for a professional, experienced engineer who has a passion for using Go to build powerful, efficient micro-services that change how Claris Pro operates. This is an opportunity to join a diverse team that focuses on creating high-quality services and solutions. It will require a deep understanding of Cloud concepts as well as building highly scalable micro-service based solutions. To be successful, you will need to focus your creative energy on collaboration, communication and producing high quality deliverables.
+      </div> 
+     </div>
+    </div>
+   </div>
+  </div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <h2 class=""jobSectionHeader""><b>Education &amp; Experience</b></h2> 
+     </div>
+     <div>
+      <div>
+       Computer Science, Engineering or related Degree or equivalent software engineering experience
+      </div> 
+     </div>
+    </div>
+   </div>
+  </div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <h2 class=""jobSectionHeader""><b>Additional Requirements</b></h2> 
+     </div>
+    </div>
+   </div>
+  </div>
+  <div></div>
+  <div>
+   <div>
+    <div>
+     <div>
+      <h2 class=""jobSectionHeader""><b>Pay &amp; Benefits</b></h2> 
+     </div>
+     <div>
+      <div>
+       <ul>
+        <li>At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $170,700 and $256,500, and your base pay will depend on your skills, qualifications, experience, and location.<br> <br> Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.<br> <br> Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.</li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>"
